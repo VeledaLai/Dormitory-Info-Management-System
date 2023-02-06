@@ -1,6 +1,6 @@
-<p align="center">学生宿舍信息管理系统</p>
+<h1><p align="center">学生宿舍信息管理系统</p></h1>
 
-项目描述：大三上学期数据库大作业。
+<h3>项目描述：大三上学期数据库大作业。</h3>
 
 后端：Veleda Lai, Selena Huang
 
